@@ -36,3 +36,29 @@ The network will not be secure.So if any wifi has virus it'll affect your device
 
   4.<ins>BROWSER HIJACKING SOFTWARE</ins>:
   - Some malicious software which are downloaded along with the free software offered over the internet.
+
+  5.<ins>VIRUSES</ins>:
+  - Malicious codes which are wriiten to damage or harm the host computer.
+  - It needs human intervention/response to work.
+  - It operates in 2 ways:
+    a.Lands on a new computer and replicates.
+    b.When you run the infected program.
+
+  6.<ins>WORMS</ins>:
+  - It is a class of virus which can replicate themselves.
+  - They don't require human intervention to spread across the networks.
+  - It can spread through loopholes on emails.
+  - And it attacks the outdated systems.
+
+  7.<ins>SCAREWARE</ins>:
+  - Malicious code can neither be uninstalled from the system nor can the computer be used till the ransom is paid.
+
+# SOFTWARE BUNDLING:
+It is a method of distributing a less known/new software within a package of a popular website on an illegitimate website.It is said that the bundle software are malicious whereas, the known software are not malicious.
+
+# NOTE:
+- Social networkinng sites are owned by private businesses,and they make thier money by collecting data about individuals and selling that data to the third party advertisers.
+- A secure website address will always begin https://, not HTTP:// and it will display a image of a closed padlock.🔒
+
+# Clearing CAHCHE for browsers:
+Your internet browser's cache stores certain information or snapshots of web pages you visited on your computer or mobile device.You can fix many problems by clearing your cache.

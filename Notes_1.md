@@ -46,5 +46,5 @@ Term used for a broad range of malicious activites accomplished through human in
   These are flexible providing support usage on both laptops and mobile phones.
 
 # Enable 2FA or MFA:
-2FA: 2 factor authentication
-MFA: multi factor aunthentication
+2FA: 2 factor authentication, 
+ MFA: multi factor aunthentication

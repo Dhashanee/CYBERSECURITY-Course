@@ -1,2 +1,4 @@
 # CYBERSECURITY-Course
-I successfully completed a certified Cybersecurity Bootcamp course  of total 1.5 hours on sept.16 2025 on Udemy, which included multiple quizzes to reinforce learning. Throughout the course, I took detailed notes to summarize key concepts and practical knowledge. These notes serve as a valuable resource for future review and to quickly brush up on essential cybersecurity topics when needed.
+I successfully completed a certified Cybersecurity Bootcamp course  of total 1.5 hours on sept.16 2025 on Udemy, which included multiple quizzes to reinforce learning. 
+<br>
+Throughout the course, I took detailed notes to summarize key concepts and practical knowledge. These notes serve as a valuable resource for future review and to quickly brush up on essential cybersecurity topics when needed.
